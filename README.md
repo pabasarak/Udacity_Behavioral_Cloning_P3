@@ -10,6 +10,9 @@ The project includes the following files:
 		
 		writeup_report_P3.pdf summarizing the results
 		
+
+Please refer writeup_report_P3.pdf for the full writeup
+		
 		
 # Model Architecture 
 
